@@ -11,6 +11,7 @@
 ### 2. [Выявление основных драйверов роста выручки магазинов](https://colab.research.google.com/github/alexeiveselov92/other_projects/blob/master/Выявление%20основных%20драйверов%20роста%20выручки%20магазинов.ipynb)
 
 **Описание:**
+Выявление основных драйверов выручки магазинов и построение прогнозной модели для принятия решений о выборе мест под открытие новых магазинов “Natural Grocery”
 
 **Библиотеки:**
 `pandas, numpy, seaborn, matplotlib.pyplot, plotly, sklearn`
