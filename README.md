@@ -9,10 +9,11 @@
 **Библиотеки и стек:**
 Библиотеки: `pandas, numpy, sys`
 Стек: api, airflow, postgresql, GoogleDataDtudio
-<hr>
 
 **Дашборд в GDS:**
 https://datastudio.google.com/s/k6VIMKmCudE
+
+<hr>
 
 ### 2. [Анализ рынка труда в СПБ по вакансиям Аналитик данных](https://colab.research.google.com/github/alexeiveselov92/other_projects/blob/master/Анализ%20рынка%20труда%20в%20СПБ%20Аналитик%20данных.ipynb)
 
