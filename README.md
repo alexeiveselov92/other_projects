@@ -1,6 +1,6 @@
 # Проекты
 <hr>
-### 1. [Анализ рынка труда в РФ по вакансиям аналитика данных и смежным профессиям](https://datastudio.google.com/s/k6VIMKmCudE)
+### 1. Анализ рынка труда в РФ по вакансиям аналитика данных и смежным профессиям
 
 **Описание:**
 Анализ рынка труда по вакансиям аналитика данных и смежным профессиям по всей РФ.
@@ -9,6 +9,9 @@
 Библиотеки: `pandas, numpy, sys`
 Стек: api, airflow, postgresql, GoogleDataDtudio
 <hr>
+
+**Дашборд в GDS:**
+https://datastudio.google.com/s/k6VIMKmCudE
 
 ### 2. [Анализ рынка труда в СПБ по вакансиям Аналитик данных](https://colab.research.google.com/github/alexeiveselov92/other_projects/blob/master/Анализ%20рынка%20труда%20в%20СПБ%20Аналитик%20данных.ipynb)
 
